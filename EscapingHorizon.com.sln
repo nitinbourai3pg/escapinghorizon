@@ -10,15 +10,20 @@ EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
+		LIve|Any CPU = LIve|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{82720EA5-A881-47B3-9389-4A846260B070}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{82720EA5-A881-47B3-9389-4A846260B070}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82720EA5-A881-47B3-9389-4A846260B070}.LIve|Any CPU.ActiveCfg = LIve|Any CPU
+		{82720EA5-A881-47B3-9389-4A846260B070}.LIve|Any CPU.Build.0 = LIve|Any CPU
 		{82720EA5-A881-47B3-9389-4A846260B070}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82720EA5-A881-47B3-9389-4A846260B070}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9236DD60-EDDB-45CC-9C9D-DE7F7BCB19F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9236DD60-EDDB-45CC-9C9D-DE7F7BCB19F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9236DD60-EDDB-45CC-9C9D-DE7F7BCB19F4}.LIve|Any CPU.ActiveCfg = LIve|Any CPU
+		{9236DD60-EDDB-45CC-9C9D-DE7F7BCB19F4}.LIve|Any CPU.Build.0 = LIve|Any CPU
 		{9236DD60-EDDB-45CC-9C9D-DE7F7BCB19F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9236DD60-EDDB-45CC-9C9D-DE7F7BCB19F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
